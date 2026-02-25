@@ -1,8 +1,8 @@
 # 🌐 Web3 Daily Digest — OpenClaw Skill
 
-From 60+ top Web3/Crypto sources, automatically fetch, score, and summarize the best articles into a daily digest.
+From 30+ top Web3/Crypto sources, automatically fetch, score, and summarize the best articles into a daily digest.
 
-Covers: **CoinDesk · Decrypt · Bankless · Vitalik · a16z · Paradigm · Rekt · Arthur Hayes · Uniswap · Aave · Lido · Jupiter · ether.fi** and 45+ more.
+Covers: **CoinDesk · Decrypt · Bankless · Vitalik · a16z · Paradigm · Rekt · Arthur Hayes · Uniswap · Aave · Lido · Jupiter · ether.fi** and more.
 
 **No external API keys required.** Uses the OpenClaw agent's own LLM.
 
@@ -30,7 +30,7 @@ cp -r web3-daily-digest ~/.openclaw/workspace/skills/
 ## How It Works
 
 ```
-60+ RSS Feeds → Concurrent Fetch → Time Filter → LLM Scoring → LLM Summary → Digest
+30+ RSS Feeds → Concurrent Fetch → Time Filter → LLM Scoring → LLM Summary → Digest
 ```
 
 The agent handles all scoring and summarization natively — no Gemini/OpenAI API keys needed.
@@ -73,7 +73,7 @@ web3-daily-digest/
 ├── scripts/
 │   └── fetch-rss.mjs     # Concurrent RSS fetcher (Node.js, zero deps)
 └── references/
-    └── sources.json       # 60+ Web3/Crypto RSS sources
+    └── sources.json       # 30+ Web3/Crypto RSS sources
 ```
 
 ## License

@@ -1,11 +1,11 @@
 ---
 name: web3-daily-digest
-description: "Generate a daily Web3/Crypto news digest from 60+ top crypto blogs, research firms, and DeFi protocols. Trigger with /web3digest. Fetches RSS feeds, scores articles by relevance/quality, and produces a structured Chinese/English summary. No external API keys needed."
+description: "Generate a daily Web3/Crypto news digest from 30+ top crypto blogs, research firms, and DeFi protocols. Trigger with /web3digest. Fetches RSS feeds, scores articles by relevance/quality, and produces a structured Chinese/English summary. No external API keys needed."
 ---
 
 # Web3 Daily Digest
 
-Generate a structured daily digest from 60+ top Web3/Crypto sources including CoinDesk, Decrypt, Bankless, Vitalik, a16z crypto, Paradigm, and major DeFi protocols.
+Generate a structured daily digest from 30+ top Web3/Crypto sources including CoinDesk, Decrypt, Bankless, Vitalik, a16z crypto, Paradigm, and major DeFi protocols.
 
 ## Trigger
 
@@ -63,7 +63,7 @@ Add brief market context if available:
 
 ```
 🌐 Web3 Daily Digest — {date}
-来自 60+ 顶级 Crypto/DeFi 信息源
+来自 30+ 顶级 Crypto/DeFi 信息源
 
 📝 今日看点
 {2-3 sentence macro trend summary}
@@ -86,5 +86,5 @@ Add brief market context if available:
 ## Notes
 
 - Sources cover: major news (CoinDesk, Decrypt, Blockworks), research (Paradigm, a16z, Delphi), DeFi protocols (Uniswap, Aave, Lido), L2s (Optimism, Arbitrum, Base, Starknet), security (Trail of Bits, Rekt, Immunefi), and top crypto writers (Vitalik, Arthur Hayes, Cobie).
-- Includes Jupiter and ether.fi — aligned with user's DeFi interests.
 - No external API key needed.
+- Users can add custom sources by editing `references/sources.json`.
